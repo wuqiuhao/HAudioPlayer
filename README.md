@@ -3,4 +3,4 @@ AVPlayer再封装，实现类网易云音乐播放动画效果,列表切换支�
 
 <img src="https://github.com/wuqiuhao/HAudioPlayer/raw/master/gif/1.gif" width=250 height=445 />
 <img src="https://github.com/wuqiuhao/HAudioPlayer/raw/master/gif/2.gif" width=250 height=445 />
-<img src="https://github.com/wuqiuhao/HAudioPlayer/raw/master/gif/3.gif" width=250 height=455 />
+<img src="https://github.com/wuqiuhao/HAudioPlayer/raw/master/gif/3.gif" width=250 height=445 />
