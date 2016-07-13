@@ -1,9 +1,9 @@
 # HAudioPlayer
 AVPlayer再封装，实现类网易云音乐播放动画效果
 
-###列表切换，支持进度随意拖放
+###列表切换支持进度随意拖放
 
-![Alt Text](https://github.com/wuqiuhao/HAudioPlayer/raw/master/gif/1.gif =450x801)
+[[ https://github.com/wuqiuhao/HAudioPlayer/raw/master/gif/1.gif | height = 801px ]]
 
 ###支持控制中心远程控制
 
